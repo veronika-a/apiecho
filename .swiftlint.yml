@@ -1,0 +1,5 @@
+identifier_name:
+  allowed_symbols: "_"
+excluded:
+  - Pods
+
